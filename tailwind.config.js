@@ -14,8 +14,8 @@ export default {
       'offwhitebg': '#f2f2f2'
     },
     fontFamily: {
-      'sholders': "Big Shoulders Display",
-      'lexend': "Lenxend Deca"
+      'shoulders': "Big Shoulders Display",
+      'lexend': "Lexend Deca"
     }
   },
   plugins: [],
